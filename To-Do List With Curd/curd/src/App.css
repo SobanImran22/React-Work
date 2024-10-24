@@ -1,0 +1,47 @@
+.bac{
+  background-color: rgb(255, 255, 255);
+}
+.b{
+  background-color: rgb(255, 255, 255);
+  margin-top: -10px;
+
+}
+.t{
+  margin-left: 500px;
+  padding-bottom: 20px;
+  margin-right: 500px;
+}
+.f{
+  padding-top: 15px;
+}
+.btn btn-primary{
+  margin-left: 180px;
+  margin-top: 10px;
+  color: antiquewhite;
+
+}
+.i{
+  margin-left: 5px;
+  margin-top: 10px;
+}
+.table{
+ margin-top: 30px; 
+}
+.o{
+  margin-left: 20px;
+}
+.p{
+  padding-left: 15px;
+}
+.l{
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.j{
+  margin-left: 2px;
+  margin-right: 2px;
+  padding-left: 2px;
+  padding-right: 2px;
+}
